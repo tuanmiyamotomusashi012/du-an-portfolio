@@ -65,7 +65,7 @@ const PROJECTS_DATA = [
     objective: "Tạo ra các sản phẩm truyền thông số cơ bản.",
     summary: "Lên ý tưởng, sử dụng công cụ thiết kế trực tuyến (như Canva) để tạo ra một sản phẩm truyền thông hoàn chỉnh, truyền tải thông điệp rõ ràng.",
     attachmentType: "PDF",
-    link: "https://drive.google.com/file/d/19DmJARV5TNcNB2XgI1-k7S2ycId0ErCn/view?usp=sharing"
+    link: "https://drive.google.com/file/d/19OZ_StFW9yCF_Baf8LPrqi3QJbOAchXX/view?usp=sharing"
   },
   {
     id: 6,
