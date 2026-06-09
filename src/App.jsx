@@ -119,7 +119,7 @@ const AboutPage = () => (
           </li>
           <li className="flex gap-2">
             <ChevronRight className="w-5 h-5 text-blue-500 shrink-0" />
-            <span>Định hướng tương lai trở thành một [Chuyên viên/Kỹ sư/...] chuyên nghiệp.</span>
+            <span>Định hướng tương lai trở thành một AI Engineer chuyên nghiệp.</span>
           </li>
         </ul>
       </div>
